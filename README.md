@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Blessing Juliana 👋
+
+## About Me
+- I'm currently learning AWS Cloud Computing & AI with Azubi Africa
+- I'm interested in cloud security, and love research
+- Reach me on julianaasumin8@gmail.com or linkedin.com/in/blessing-juliana
+⚡ Fun fact: I love going down rabbit holes when I read
+
+## Projects
+- [git-learning-log](https://github.com/your-github-username/git-learning-log) - My first Git project tracking a learning log
 
 <!--
 **julianaasumin/julianaasumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
